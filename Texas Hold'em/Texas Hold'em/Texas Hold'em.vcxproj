@@ -117,11 +117,13 @@
   <ItemGroup>
     <ClCompile Include="..\..\Texas Hold%27em\Texas Hold%27em\Application.cpp" />
     <ClCompile Include="..\..\Texas Hold%27em\Texas Hold%27em\cards.cpp" />
+    <ClCompile Include="..\..\Texas Hold%27em\Texas Hold%27em\GameLogic.cpp" />
     <ClCompile Include="..\..\Texas Hold%27em\Texas Hold%27em\Player.cpp" />
     <ClCompile Include="..\..\Texas Hold%27em\Texas Hold%27em\Rules.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\Texas Hold%27em\Texas Hold%27em\cards.h" />
+    <ClInclude Include="..\..\Texas Hold%27em\Texas Hold%27em\GameLogic.h" />
     <ClInclude Include="..\..\Texas Hold%27em\Texas Hold%27em\Player.h" />
     <ClInclude Include="..\..\Texas Hold%27em\Texas Hold%27em\Rules.h" />
   </ItemGroup>

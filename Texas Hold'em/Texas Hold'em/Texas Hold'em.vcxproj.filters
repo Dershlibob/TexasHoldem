@@ -27,6 +27,9 @@
     <ClCompile Include="..\..\Texas Hold%27em\Texas Hold%27em\Rules.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Texas Hold%27em\Texas Hold%27em\GameLogic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\Texas Hold%27em\Texas Hold%27em\cards.h">
@@ -36,6 +39,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Texas Hold%27em\Texas Hold%27em\Rules.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Texas Hold%27em\Texas Hold%27em\GameLogic.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

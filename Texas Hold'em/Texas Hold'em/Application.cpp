@@ -2,12 +2,15 @@
 #include <algorithm>
 #include <iterator>
 #include <random>
+#include <math.h>
+#include <complex>
 
 #include "cards.h"
 #include "Player.h"
 #include "Rules.h"
 
 #define LOGCARD(Suit, Num) std::cout << "Suit = " << Suit << " Card number = " << Num << std::endl
+#define LOG(X) std::cout << X << std::endl
 
 static CardPack Pack;
 std::random_device rd;
@@ -22,6 +25,8 @@ int main()
 {
 	Rules rules;
 
+	float imaginary = sqrt(-1);
+	LOG(imaginary);
 	Player P1;
 	do
 	{
